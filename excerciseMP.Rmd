@@ -1,7 +1,7 @@
 ---
 title: "Reproducible and Collaborative Practices"
    subtitle: "Tutorial 7"
-   author: "Your Name"
+   author: "Maliny Po"
    institute: "Department of Econometrics and Business Statistics"
    output:
     pdf_document:
@@ -19,4 +19,4 @@ title: "Reproducible and Collaborative Practices"
      - \usepackage{sectsty}
      - \sectionfont{\color{olive}}
      - \usepackage{verbatim}
----
+
